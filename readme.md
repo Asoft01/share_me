@@ -8,3 +8,6 @@ sanity help
 sanity start
 
 sanity.io/docs/image-type
+
+Extensions 
+* Es7 + React/ Redux/ GraphQL/React 

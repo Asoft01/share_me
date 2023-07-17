@@ -9,6 +9,7 @@ export const client = SanityClient({
     token: ''
 }); 
 
+// Kindly check the sanity documentation for this 
 const builder = ImageUrlBuilder(client); 
 
 export const urlFor = (source) => builder.image(source); 

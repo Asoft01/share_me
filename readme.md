@@ -11,3 +11,17 @@ sanity.io/docs/image-type
 
 Extensions 
 * Es7 + React/ Redux/ GraphQL/React 
+
+npm install @sanity/client @sanity/image-url react-google-login react-icons react-loader-spinner react-masonry-css react-router-dom uuid --legacy-peer-deps  
+
+https://console.cloud.google.com
+
+-> Create Project on Google Cloud 
+https://console.cloud.google.com/apis/dashboard?project=share-me-393016
+
+Go to Credentials 
+-> Created Credentials 
+->OAUth ClientID
+
+
+npm i gapi-script
